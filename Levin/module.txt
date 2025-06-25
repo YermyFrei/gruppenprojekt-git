@@ -1,0 +1,12 @@
+- 431 | IT-Aufträge selbständig durchführen 
+- 158 | Software-Migration planen und durchführen 
+- 309 | Applikationen entwerfen und implementieren 
+- 188 | Netzwerkservices implementieren 
+- 114 | Codierungs-, Kompressions-Verschlüsselung 
+- 254 | Geschäftsprozesse beschreiben 
+- 117 | Informatik für ein kleines Unternehmen
+- 122 | Abläufe mit Scripts/Makros autom.
+- 143 | Backup- und Restore-Systeme 
+- 145 | Netzwerk betreiben und erweitern 
+- 162 | Daten analysieren und modellieren 
+- 169 | Dienste mit Containern bereitstellen
